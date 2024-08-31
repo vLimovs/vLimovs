@@ -1,16 +1,27 @@
-## Hi there 👋
+<center>
 
-<!--
-**vLimovs/vLimovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there👋
+<img src="images/header.jpg">
 
-Here are some ideas to get you started:
+## Technologies:
+<img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> soon...
+>><img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+>><img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+>><img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+## Tools:
+
+<img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+> soon...
+>><img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+## Contacts:
+>⠀
+<img alt="Static Badge" src="https://img.shields.io/badge/vlimovs-blue?style=for-the-badge&logo=Discord&logoColor=white">
+<a href="https://t.me/deo_royalty"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=vlimovs.t.me"></a>
+<a href="mailto:limonytchannel@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</center>
