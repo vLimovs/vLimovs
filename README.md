@@ -1,5 +1,5 @@
 # Hi there👋
-<img style="height: 100%" src="images/fr_banner.png">
+<img style="height: 20%" src="images/fr_banner.png">
 
 ## Technologies:
 <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
